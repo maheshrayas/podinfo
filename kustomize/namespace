@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: mahesh
   annotations:
-    kustomize.toolkit.fluxcd.io/reconcile: disabled
+    kustomize.toolkit.fluxcd.io/reconcile: enabed
